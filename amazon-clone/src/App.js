@@ -20,12 +20,13 @@ function App() {
           <Route path='/'>
             <Home />
           </Route>
-          
+
         </Switch>
       
-    </div>
+      </div>
     </Router>
   );
 }
 
 export default App;
+// 
